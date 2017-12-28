@@ -16,7 +16,7 @@ let s:N2 = [ '#808080' , '#121212' , 244 , 233 ] " lightgray      & gray4
 let s:N3 = [ '#ffffff' , '#121212' , 231 , 233 ] " white          & gray4
 
 " Insert mode                                    " fg             & bg
-let s:I1 = [ '#5fd7ff' , '#080808' , 081 , 232 ] " brightcyan 		& darkestgray
+let s:I1 = [ '#ff005f' , '#080808' , 197 , 232 ] " brightred 			& darkestgray
 let s:I2 = [ '#808080' , '#121212' , 244 , 233 ] " lightgray      & gray4
 let s:I3 = [ '#ffffff' , '#121212' , 231 , 233 ] " white          & gray4
 
